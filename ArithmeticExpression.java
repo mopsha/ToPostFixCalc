@@ -12,7 +12,7 @@ import java.io.IOException;
  */
 public class ArithmeticExpression {
     /** Provide the full path to the input file. */
-    private static final String INPUT_PATH = "";
+    private static final String INPUT_PATH = "";//input to file with infix expressions
     /** The balanced word around which we are wrapping. */
     private BalancedWord expression;
     /**
